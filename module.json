@@ -1,0 +1,26 @@
+{
+  "id": "translation-manager",
+  "name": "Translation Manager",
+  "description": "Easily modify and control used translation messages and languages.",
+  "keywords": [
+    "translation",
+    "text elements",
+    "individual phrases",
+    "languages"
+  ],
+  "version": "1.1.0",
+  "humhub": {
+    "minVersion": "1.8"
+  },
+  "homepage": "https://github.com/humhub/translation-manager-issues",
+  "authors": [
+    {
+        "name": "Lucas Bartholemy"
+    }
+  ],
+  "screenshots": [
+    "assets/screen1.PNG", 
+    "assets/screen2.PNG", 
+    "assets/screen3.PNG"
+  ]
+}
